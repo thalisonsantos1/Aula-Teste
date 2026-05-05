@@ -1,6 +1,6 @@
 '''Testes unitários'''
 
-from CALC.calculadora import Calculadora
+from calculadora import Calculadora
 
 def test_soma():
     """Testa o método soma isoladamente, com diferentes tipos de entradas"""
